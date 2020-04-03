@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "roman youtube super star programmer",
+    "mongoUri": "mongodb+srv://roman:1234qwer@cluster0-8iw1v.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000"
+}
